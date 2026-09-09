@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/GYatharth/NoLeetcode/tree/master/0027-remove-element) |
+| [0303-range-sum-query-immutable](https://github.com/GYatharth/NoLeetcode/tree/master/0303-range-sum-query-immutable) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,4 +24,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/GYatharth/NoLeetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/GYatharth/NoLeetcode/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/GYatharth/NoLeetcode/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
